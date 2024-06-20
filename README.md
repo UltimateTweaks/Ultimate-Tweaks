@@ -1,7 +1,6 @@
-Ultimate Tweaks
-Welcome to Ultimate Tweaks – the ultimate solution for optimizing your PC performance and enhancing your gaming experience. Whether you're a hardcore gamer seeking to eliminate lag and boost FPS or a power user looking to streamline your system, Ultimate Tweaks has got you covered.
 
-Features
+
+<h1>Features</h1>
 🚀 PC Performance Optimization
 System Cleanup: Remove junk files and free up disk space.
 Registry Optimization: Clean and optimize your Windows registry.
